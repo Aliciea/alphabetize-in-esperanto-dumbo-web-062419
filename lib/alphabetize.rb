@@ -7,5 +7,5 @@ def alphabetize(arr)
           esperanto_alphabet = array
            esperanto_array.index(individual_letters)
     end
-  end
-  end
+end
+end
