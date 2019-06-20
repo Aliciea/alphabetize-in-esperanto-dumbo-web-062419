@@ -8,6 +8,4 @@ def alphabetize(arr)
            esperanto_array.index(individual_letters)
     end
   end
- end
-end
 end
